@@ -14,4 +14,4 @@ const FavouritesPage = async() => {
   )
 }
 
-export default FavouritesPage
+export default FavouritesPage;
