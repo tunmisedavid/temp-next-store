@@ -1,5 +1,4 @@
 import ProductsContainer from "@/components/products/ProductsContainer";
-import React from "react";
 
 const ProductsPage = ({
   searchParams,
